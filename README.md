@@ -27,8 +27,6 @@ python parallel_computing.py
 
 When tasks are independent (especially I/O-bound work such as network calls or file reads), running them in parallel with threads can dramatically reduce total execution time. When tasks depend on each other's results, sequential processing is required.
 
----
-
 ## ⚠️ Notice: No Copying Allowed
 
 Please **do not use or copy this code**. You need to **create your own** — **don't steal someone else's work.**
