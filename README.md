@@ -29,12 +29,6 @@ When tasks are independent (especially I/O-bound work such as network calls or f
 
 ---
 
-## Ownership & Presentation
-
-This project demo is **owned by JONNY CANDES and ED ENGGA**, prepared to be presented to **Sir GERWIN REGAÑON**.
-
----
-
 ## ⚠️ Notice: No Copying Allowed
 
 Please **do not use or copy this code**. You need to **create your own** — **don't steal someone else's work.**
